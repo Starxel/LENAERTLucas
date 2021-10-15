@@ -1,0 +1,2 @@
+Le premier nombre parfait est 6: en binaire c'est (00000110)_2
+Le second nombre parfait est 28 : en binaire c'est (0011100)_2
